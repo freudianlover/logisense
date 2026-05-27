@@ -1,6 +1,6 @@
 # logisense
 Logistics intelligence pipeline ingesting news and Reddit posts, scoring sentiment and extracting entities. Built for monitoring Asia supply chain signals.
-# LogiSense — Supply Chain Intelligence Pipeline
+# LogiSense -> Supply Chain Intelligence Pipeline
 
 I noticed that the logistics operations team manually scans logistics news and Reddit threads to anticipate disruptions on Asia routes. LogiSense automates this: it ingests articles from specialized logistics outlets and Reddit communities, deduplicates them,
 extracts named entities (ports, carriers, commodities), scores sentiment using
@@ -38,4 +38,4 @@ LangChain + LLM) for natural-language queries over the ingested corpus.
 
 ## Author
 
-Karol Masiak — Junior Data Engineer in training
+Karol Masiak, Junior Data Engineer in training
